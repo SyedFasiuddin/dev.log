@@ -24,3 +24,9 @@ And [implemented](https://github.com/SyedFasiuddin/mal) half of it.
 ----------------------------
 
 Looked into the examples folder of [expressjs](https://github.com/expressjs/express)
+
+16<sup>th</sup> week of 2023
+----------------------------
+
+- Started looking into this chaos that is Emacs.
+- No project this week, and have not learned anything.
