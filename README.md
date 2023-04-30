@@ -30,3 +30,9 @@ Looked into the examples folder of [expressjs](https://github.com/expressjs/expr
 
 - Started looking into this chaos that is Emacs.
 - No project this week, and have not learned anything.
+
+17<sup>th</sup> week of 2023
+----------------------------
+- Went back and looked into few sorting algorithms, mainly insertion sort,
+  selection sort and merge sort.
+- Again no project this week.
