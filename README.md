@@ -36,3 +36,12 @@ Looked into the examples folder of [expressjs](https://github.com/expressjs/expr
 - Went back and looked into few sorting algorithms, mainly insertion sort,
   selection sort and merge sort.
 - Again no project this week.
+
+18<sup>th</sup> week of 2023
+----------------------------
+- Joined this AWS Academy Cloud Foundations course from
+  [KGTTI](https://www.kgtti.com/)
+- Started looking into [shuttle](https://github.com/shuttle-hq/shuttle)
+  codebase.
+- Looked into Rust
+  [macros](https://doc.rust-lang.org/stable/book/ch19-06-macros.html)
