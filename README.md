@@ -51,3 +51,7 @@ Looked into the examples folder of [expressjs](https://github.com/expressjs/expr
 - Created two PR's on [shuttle](https://github.com/shuttle-hq/shuttle) repo.
 - Looked a bit into serialization and [serde](https://serde.rs/) (just a
   [bit](https://github.com/SyedFasiuddin/todo-rs/commit/d8863c5848644f71320f0c25bdea844524a37a72)).
+
+20<sup>th</sup> week of 2023
+----------------------------
+- Went back and looked into some linked list concepts.
