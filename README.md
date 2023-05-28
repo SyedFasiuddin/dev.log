@@ -55,3 +55,7 @@ Looked into the examples folder of [expressjs](https://github.com/expressjs/expr
 20<sup>th</sup> week of 2023
 ----------------------------
 - Went back and looked into some linked list concepts.
+
+### 21<sup>th</sup> week of 2023
+- Refined my knowledge about tree data structure.
+- Learned a bit about Tokenisation and parsing.
