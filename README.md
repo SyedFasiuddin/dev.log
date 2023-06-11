@@ -59,3 +59,8 @@ Looked into the examples folder of [expressjs](https://github.com/expressjs/expr
 ### 21<sup>th</sup> week of 2023
 - Refined my knowledge about tree data structure.
 - Learned a bit about Tokenisation and parsing.
+
+### 23<sup>th</sup> week of 2023
+- Learned about binary trees, traversal of binary tree and few of its types.
+- Played a few games of chess at  [lichess.org](https://lichess.org) and learned
+  about the game, took a few notes.
