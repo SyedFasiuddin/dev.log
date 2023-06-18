@@ -64,3 +64,8 @@ Looked into the examples folder of [expressjs](https://github.com/expressjs/expr
 - Learned about binary trees, traversal of binary tree and few of its types.
 - Played a few games of chess at  [lichess.org](https://lichess.org) and learned
   about the game, took a few notes.
+
+### 24<sup>th</sup> week of 2023
+- Learned about EC2 instances and a bit of networking stuff of AWS
+- Started to look into Java Spring, already know java servlets, now trying
+  Spring.
