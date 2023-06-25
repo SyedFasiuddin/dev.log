@@ -69,3 +69,9 @@ Looked into the examples folder of [expressjs](https://github.com/expressjs/expr
 - Learned about EC2 instances and a bit of networking stuff of AWS
 - Started to look into Java Spring, already know java servlets, now trying
   Spring.
+
+### 25<sup>th</sup> week of 2023
+- Did hello world of Spring Boot and looked at
+  [spring.academy](https://spring.academy).
+- Did hello world of Android (just setting up android studio).
+- Have semester exams soon, studied stuff related to it.
